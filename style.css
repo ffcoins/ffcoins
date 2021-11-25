@@ -275,3 +275,23 @@ body .back{
 .float-right{
     float: right;
 }
+.whatsapp-button{
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    padding: 10px;
+    bottom: 15px;
+    left: 15px;
+    background-color: #25CC64;
+    border-radius: 50px;
+    text-align: center;
+    color: white;
+    z-index: 9999;
+}
+.whatsapp-button .fa{
+    font-size: 40px;
+}
+.whatsapp-button:hover{
+    background-color: #21b357;
+    color: #ececec;
+}
