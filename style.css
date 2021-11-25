@@ -295,3 +295,6 @@ body .back{
     background-color: #21b357;
     color: #ececec;
 }
+.hd{
+    display: none;
+}
